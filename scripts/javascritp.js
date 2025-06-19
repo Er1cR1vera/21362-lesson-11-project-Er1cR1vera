@@ -1,7 +1,7 @@
 /* 
 author: Eric Rivera
 course: CIS133DA
-section: 21362
+section: #21362
 */
 
 // last modified statement will set the inner HTML to the last modified property
